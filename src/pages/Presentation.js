@@ -9,7 +9,7 @@ const Presentation = () => {
     const handleDownload = () => {
         // Ajoutez le chemin vers votre fichier PDF
         const pdfPath = '/assets/imgproj/michaelbarreca.pdf';
-    
+
         // Créez un lien temporaire pour le téléchargement
         const link = document.createElement('a');
         link.href = pdfPath;
@@ -24,11 +24,11 @@ const Presentation = () => {
             <Navigation />
             <div className='notFounds'>
                 <div className='notFound-content'>
-                    
+
                     <img
                         src="/assets/imgproj/michael.png"
                         alt="Mikadesign"
-                        style={{ width: '80%', maxWidth: '90px', height: 'auto', margintop:'200px' }}
+                        style={{ width: '80%', maxWidth: '90px', height: 'auto', margintop: '200px' }}
                     />
 
                     <div className='Projet'><h4>Michaël BARRECA</h4></div>
@@ -40,8 +40,24 @@ const Presentation = () => {
                             Enfin, j'ai <strong>conclu</strong> cette période de formation en tant que <strong>concepteur d'application</strong> au Simplon.co de Grenoble, où mes formateurs m'ont enseigné une approche <strong>méthodologique</strong> centrée sur la <strong>réflexion</strong> des concepts.
                         </p>
                         <div className="download-pdf">
-                        <button style={{ maxWidth: '800px', margin: '23px', textAlign: 'center' }} onClick={handleDownload}> Télécharger mon cv </button>
-                    </div>
+                            <button
+                                style={{
+                                    maxWidth: '800px',
+                                    margin: '23px',
+                                    textAlign: 'center',
+                                    border: '2px solid #3498db',
+                                    borderRadius: '5px',
+                                    padding: '10px 20px',
+                                    fontSize: '16px',
+                                    backgroundColor: 'white',
+                                    color: '#3498db',
+                                    cursor: 'pointer', // Changement du curseur au survol
+                                }}
+                                onClick={handleDownload}
+                            >
+                                Télécharger mon CV
+                            </button>
+                        </div>
                     </div>
 
                 </div>

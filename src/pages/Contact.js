@@ -69,7 +69,7 @@ const Contact = () => {
                             <p>Michael BARRECA</p>
                         </div>
                     </div>
-                    <Buttons left={"/projet-6"} />
+                    <Buttons left={"/"} />
             </motion.div>
         </main>
     );
