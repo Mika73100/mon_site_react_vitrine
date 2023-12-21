@@ -124,6 +124,7 @@
         @media screen and (max-width: 700px){
           margin: 0;
         }
+        
         @media screen and (max-width: 450px){
           font-size: .9rem;
         }
@@ -165,6 +166,10 @@
       @media screen and (max-width: 700px){
         text-align: center;
         margin: 0 auto;
+        p {
+          font-size: .5rem;
+          line-height:10px;
+        }
       }
 
       .img-container {
