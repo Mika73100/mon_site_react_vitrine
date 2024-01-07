@@ -45,7 +45,7 @@ export const projectsData = [
     date: "Juillet 2022",
     languages: ["SymfonyApi", "Mysql"],
     infos:
-      "Mise en place d'une API Symfony avec un dashboard et l'utilisation de JWT.",
+      "Création d'un site en Symfony avec la possibilité d'appeler les contrôleurs sous forme d'API. J'utilise Symfony à la fois en tant que site et en tant qu'API, en utilisant différents composants tels que Annotation, HTTP, Serializer, etc. Mise en place d'une API Symfony avec un tableau de bord et l'utilisation de JWT.",
     img: "./assets/imgproj/APIPlatform.png",
     link: "https://github.com/Mika73100/spotimika",
   },
