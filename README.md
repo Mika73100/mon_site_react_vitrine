@@ -11,15 +11,6 @@ Bienvenue sur le dépôt de mon site vitrine réalisé avec **React**. Ce projet
 - Utilisation de composants React réutilisables
 - Design responsive et animations légères
 
-## 🖼️ Aperçu
-
-Voici quelques captures d'écran du site :
-
-![Screenshot](assets/imgproj/352shots_so.png)  
-![Screenshot](assets/imgproj/775shots_so.png)  
-![Screenshot](assets/imgproj/APIPlatform.png)  
-![Screenshot](assets/imgproj/chatredux.png)  
-
 ## ⚙️ Installation
 
 ```bash
