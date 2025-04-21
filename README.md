@@ -38,10 +38,14 @@ src/
 - `npm start` – Lancer le serveur de développement
 - `npm run build` – Construire le projet pour la production
 
-## 🙋‍♂️ Auteur
+## 🙌 Remerciements
 
-**Ton Nom** – [Ton LinkedIn] – [Ton Email]
+Merci d’avoir jeté un œil à ce projet !  
+Il a été pensé pour apprendre, tester, expérimenter — que tu sois développeur junior, formateur ou simplement curieux du **fullstack JS**.
 
----
+<div align="center">
+⭐ N’hésite pas à forker, améliorer ou t’en inspirer ! ⭐  
+Bon code à toi 🚀
 
-Tu veux que je te le mette dans un vrai fichier `README.md` à télécharger ou tu veux encore modifier quelque chose avant ?
+⭐ Un petit like sur le repo fait toujours plaisir ! ⭐  
+</div>
