@@ -41,7 +41,6 @@ src/
 ## 🙌 Remerciements
 
 Merci d’avoir jeté un œil à ce projet !  
-Il a été pensé pour apprendre, tester, expérimenter — que tu sois développeur junior, formateur ou simplement curieux du **fullstack JS**.
 
 <div align="center">
 ⭐ N’hésite pas à forker, améliorer ou t’en inspirer ! ⭐  
